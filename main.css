@@ -9,24 +9,32 @@ div {
 
 .header {
   background-color: peachpuff;
+  width: 100%;
 
 }
 
 .navigation {
   background-color: orange;
+  width: 20%;
 
 }
 
 .main-content {
   background-color: lightblue;
+  width: 40%;
+  padding: 5%;
+  height: 500px;
 }
 
 .sidebar {
   background-color: goldenrod;
+  width: 30%;
+  height: 300px;
 
 }
 
 .footer {
   background-color: lightgreen;
+  width: 100%;
 
 }
